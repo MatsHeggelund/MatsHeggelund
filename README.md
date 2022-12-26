@@ -1,4 +1,6 @@
-👋 Hey
+👋 Hey!
+
+---
 
 ![](https://komarev.com/ghpvc/?username=MatsHeggelund)
 
