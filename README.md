@@ -1,4 +1,4 @@
-👋 Hey!
+Interested in CTFs
 
 ---
 
